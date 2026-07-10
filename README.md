@@ -8,6 +8,6 @@ Jarvis lets you interact with Gemini directly from your terminal with a clean co
 - Built with Python
 
 ## Tech Stack
-Python
-Google Gemini API
-google genai
+- Python
+- Google Gemini API
+- google genai
